@@ -47,7 +47,9 @@ You control a snake inside a box:
 
 ## 📸 Screenshot
 
-(Add your screenshot here)
+![Game Screenshot](menu.png)
+![Game Screenshot](playgame.png)
+![Game Screenshot](gameover.png)
 
 ---
 
